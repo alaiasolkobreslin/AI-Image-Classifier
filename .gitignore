@@ -132,3 +132,4 @@ dmypy.json
 .DS_Store
 data/aesthetic_6k
 data/cat_generated_aesthetic
+.idea/
